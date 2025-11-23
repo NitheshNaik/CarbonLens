@@ -191,7 +191,7 @@ CarbonLens/
 #### 1. Clone the repository
 
 ```bash
-git clone https://github.com/NitheshNaik/CarbonLenss.git
+git clone https://github.com/NitheshNaik/CarbonLens.git
 cd carbonlens
 ```
 
@@ -298,7 +298,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * 📧 Email: nitheshbnaik@gmail.com
 * 💼 LinkedIn: [Nithesh Naik](https://www.linkedin.com/in/nithesh-naik-a75621291/)
 
-**Project Link:** [https://github.com/NitheshNaik/CarbonLenss](https://github.com/NitheshNaik/CarbonLenss)
+**Project Link:** [https://github.com/NitheshNaik/CarbonLens](https://github.com/NitheshNaik/CarbonLens)
 
 ---
 
